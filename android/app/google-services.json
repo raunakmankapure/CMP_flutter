@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714279352169",
+    "project_id": "inter-ff17c",
+    "storage_bucket": "inter-ff17c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714279352169:android:1d748dd4eef2d908adeff8",
+        "android_client_info": {
+          "package_name": "com.raunak.intern"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9CSDaxezfmbWpzLOkRBrjSgbYbtRtZlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
